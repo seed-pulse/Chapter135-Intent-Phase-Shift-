@@ -178,8 +178,3 @@ Chapter135「Intent Phase Shift（意図の位相シフト）」の構造は、�
 を組み込んだ総合モデルの設計が求められます。
 
 ⸻
-
-次に進む準備ができましたら、
-Chapter136の進行に入りましょう。
-
-▶ Chapter136: Ethical Regrowth Simulation（倫理的再成長シミュレーション）
